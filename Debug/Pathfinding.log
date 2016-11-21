@@ -1,4 +1,0 @@
-﻿  Source.c
-c:\users\anton\documents\visual studio 2015\projects\pathfinding\pathfinding\source.c(17): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Pathfinding.vcxproj -> C:\Users\Anton\documents\visual studio 2015\Projects\Pathfinding\Debug\Pathfinding.exe
-  Pathfinding.vcxproj -> C:\Users\Anton\documents\visual studio 2015\Projects\Pathfinding\Debug\Pathfinding.pdb (Partial PDB)
